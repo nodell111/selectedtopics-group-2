@@ -14,3 +14,4 @@ TO DESCRIBE:
   - Qualitive results
     - Visualisation of predictions 
     - Discussion of challenging cases (for instance data devision, no pretrained models for 64*64 images and others)
+  - Conclusions
