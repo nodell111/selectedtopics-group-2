@@ -18,8 +18,10 @@ programmed to be displayed graphically as well as the recognition results.
   - Additionally, an image different from the ones used to build up the tiles can be used to test the recognition model.
   - Finally, the created model is saved with .h5 extension.
 > For results.ipynb
-  - loadimg()and tile() functions are defined for reading the tiles (.jpeg works with this code).
-  - dir_image and dir_tile set respectively the path of the image that is to be recognized and the tiles for running the model defined in model.ipynb,
+  - `loadimg()` and `tile()` functions are defined for reading the tiles (.jpeg works with this code).
+  - `dir_image` and `dir_tile` set respectively the path of the image that is to be recognized and the tiles for running the model defined in model.ipynb,
     and additionally the contrast and brightness for the recognized image is redeuced on a 66% and 50% respectively. Then it is tiled in 64 x 64-pixel
     size for applying  .h5 model priorly saved.
   -The resulting image can be saved either with a null transparency layer of detection or an alpha = 0.3 as a .jpeg image in any chosen folder.
+
+
