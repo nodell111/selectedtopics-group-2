@@ -24,4 +24,4 @@ programmed to be displayed graphically as well as the recognition results.
     size for applying  .h5 model priorly saved.
   -The resulting image can be saved either with a null transparency layer of detection or an alpha = 0.3 as a .jpeg image in any chosen folder.
 
-
+Sample resultes can be found in newresult.zip folder.
